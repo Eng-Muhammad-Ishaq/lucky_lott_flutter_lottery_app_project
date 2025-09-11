@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "590057775665",
+    "project_id": "lucky-lott-d",
+    "storage_bucket": "lucky-lott-d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590057775665:android:d19b67f41b9610ad85eb10",
+        "android_client_info": {
+          "package_name": "com.example.lucky_lott"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590057775665-vi6ujdno34le7okloev711q08htl96a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lucky_lott",
+            "certificate_hash": "644ed77e2f3f31da298027ee2369cc4c5e6a1483"
+          }
+        },
+        {
+          "client_id": "590057775665-j182sh5329ns0sdb6ipmk1c84rn76rbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuoQCIKjgTtx1mkHM8ey1kaw8kuM_-hGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590057775665-j182sh5329ns0sdb6ipmk1c84rn76rbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590057775665-co925d93rlqg26583equpe03ivsuvlsf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.luckyLott"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

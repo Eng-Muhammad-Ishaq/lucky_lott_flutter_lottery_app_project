@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "lucky-lott-d",
+          "appId": "1:590057775665:android:d19b67f41b9610ad85eb10",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "lucky-lott-d",
+          "configurations": {
+            "android": "1:590057775665:android:d19b67f41b9610ad85eb10",
+            "ios": "1:590057775665:ios:12a723e7c56f936985eb10",
+            "macos": "1:590057775665:ios:12a723e7c56f936985eb10",
+            "web": "1:590057775665:web:26cf091ea923c4fa85eb10",
+            "windows": "1:590057775665:web:0425c73b978b80c785eb10"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
